@@ -1,4 +1,4 @@
-module github.com/metamultiverse/cors-1
+module github.com/metamultiverse/cors-1 latest
 
 go 1.13
 
