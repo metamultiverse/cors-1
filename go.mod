@@ -1,4 +1,4 @@
-module github.com/gin-contrib/cors
+module github.com/metamultiverse/cors-1
 
 go 1.13
 
